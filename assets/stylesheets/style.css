@@ -1,0 +1,51 @@
+#top{
+    width: 100vw;
+    height: 100%;
+    background:url("../images/img12.jpeg");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+.alignment{
+    margin-top:250px;
+}
+.top-nav{
+    height: 80px;
+
+    position: fixed;
+    display: flex;
+    margin-bottom: 100px;
+}
+.top-nav ul{
+    display: flex;
+}
+footer{
+    margin-top:100px;
+    text-align:center;
+}
+b{
+    border:solid 10px;
+}
+.prog{
+    font-weight: 50px;
+}
+
+#skills{
+    width: 1500px;
+    height: 100vh;
+    overflow-x: hidden;
+    background:url("img10.jpeg"); 
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    padding-left:  40px;
+    padding-right: 40px;
+    border: 10px solid gray;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+}
+#contact{
+    width: 1500px;
+    overflow-x: hidden;
+    background: #2f3460;
+    height: 100%;
+}
